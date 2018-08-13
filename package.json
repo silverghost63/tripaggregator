@@ -1,0 +1,19 @@
+{
+  "name": "tripaggregator",
+  "version": "1.0.0",
+  "description": "Tripaggregator Landing Page on bootstrap 4.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silverghost63/tripaggregator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silverghost63/tripaggregator/issues"
+  },
+  "homepage": "https://github.com/silverghost63/tripaggregator#readme"
+}
